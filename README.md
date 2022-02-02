@@ -4,7 +4,7 @@ Set system-wide variables.
 
 |GitHub|GitLab|Quality|Downloads|Version|
 |------|------|-------|---------|-------|
-|[![github](https://github.com/buluma/ansible-role-environment/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-environment/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-environment/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-environment)|[![quality](https://img.shields.io/ansible/quality/57878)](https://galaxy.ansible.com/buluma/anaconda)|[![downloads](https://img.shields.io/ansible/role/d/57878)](https://galaxy.ansible.com/buluma/anaconda)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-environment.svg)](https://github.com/buluma/ansible-role-environment/releases/)|
+|[![github](https://github.com/buluma/ansible-role-environment/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-environment/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-environment/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-environment)|[![quality](https://img.shields.io/ansible/quality/57878)](https://galaxy.ansible.com/buluma/environment)|[![downloads](https://img.shields.io/ansible/role/d/57878)](https://galaxy.ansible.com/buluma/environment)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-environment.svg)](https://github.com/buluma/ansible-role-environment/releases/)|
 
 ## [Example Playbook](#example-playbook)
 
