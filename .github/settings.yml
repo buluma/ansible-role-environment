@@ -1,0 +1,8 @@
+---
+#
+# Ansible managed
+#
+repository:
+  description: Set system-wide variables.
+  homepage: https://buluma.co.ke/
+  topics: environment, ansible, molecule, tox, playbook, hacktoberfest
