@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-environment/tree/HEAD)
+## [1.0.6](https://github.com/buluma/ansible-role-environment/tree/1.0.6) (2022-05-09)
 
-[Full Changelog](https://github.com/buluma/ansible-role-environment/compare/1.0.5...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-environment/compare/1.0.5...1.0.6)
 
 **Closed issues:**
 
