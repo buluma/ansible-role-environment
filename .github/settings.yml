@@ -5,4 +5,4 @@
 repository:
   description: Set system-wide variables.
   homepage: https://buluma.github.io/
-  topics: environment, ansible, molecule, tox, playbook, hacktoberfest
+  topics: environment, ansible, molecule, tox, playbook
