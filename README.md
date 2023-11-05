@@ -2,9 +2,9 @@
 
 Set system-wide variables.
 
-|GitHub|GitLab|Quality|Downloads|Version|Issues|Pull Requests|
-|------|------|-------|---------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-environment/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-environment/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-environment/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-environment)|[![quality](https://img.shields.io/ansible/quality/57878)](https://galaxy.ansible.com/buluma/environment)|[![downloads](https://img.shields.io/ansible/role/d/57878)](https://galaxy.ansible.com/buluma/environment)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-environment.svg)](https://github.com/buluma/ansible-role-environment/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-environment.svg)](https://github.com/buluma/ansible-role-environment/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-environment.svg)](https://github.com/buluma/ansible-role-environment/pulls/)|
+|GitHub|GitLab|Downloads|Version|Issues|Pull Requests|
+|------|------|-------|-------|------|-------------|
+|[![github](https://github.com/buluma/ansible-role-environment/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-environment/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-environment/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-environment)|[![downloads](https://img.shields.io/ansible/role/d/4698)](https://galaxy.ansible.com/buluma/environment)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-environment.svg)](https://github.com/buluma/ansible-role-environment/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-environment.svg)](https://github.com/buluma/ansible-role-environment/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-environment.svg)](https://github.com/buluma/ansible-role-environment/pulls/)|
 
 ## [Example Playbook](#example-playbook)
 
