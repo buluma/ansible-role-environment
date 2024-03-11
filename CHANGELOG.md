@@ -25,6 +25,7 @@
 **Merged pull requests:**
 
 - Bump actions/checkout from 3 to 4 [\#17](https://github.com/buluma/ansible-role-environment/pull/17) ([dependabot[bot]](https://github.com/apps/dependabot))
+- version bump [\#1](https://github.com/buluma/ansible-role-environment/pull/1) ([buluma](https://github.com/buluma))
 
 ## [1.0.10](https://github.com/buluma/ansible-role-environment/tree/1.0.10) (2023-12-27)
 
@@ -77,10 +78,6 @@
 ## [1.0.3](https://github.com/buluma/ansible-role-environment/tree/1.0.3) (2022-02-12)
 
 [Full Changelog](https://github.com/buluma/ansible-role-environment/compare/1.0.2...1.0.3)
-
-**Merged pull requests:**
-
-- version bump [\#1](https://github.com/buluma/ansible-role-environment/pull/1) ([buluma](https://github.com/buluma))
 
 ## [1.0.2](https://github.com/buluma/ansible-role-environment/tree/1.0.2) (2022-02-10)
 
