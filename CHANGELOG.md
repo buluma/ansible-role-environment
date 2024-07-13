@@ -18,6 +18,7 @@
 **Merged pull requests:**
 
 - Bump buluma/molecule-action from 6.0.1 to 6.0.3 [\#23](https://github.com/buluma/ansible-role-environment/pull/23) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump buluma/molecule-action from 6.0.0 to 6.0.1 [\#22](https://github.com/buluma/ansible-role-environment/pull/22) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [1.1.0](https://github.com/buluma/ansible-role-environment/tree/1.1.0) (2024-01-02)
 
@@ -81,7 +82,6 @@
 
 **Merged pull requests:**
 
-- Bump buluma/molecule-action from 6.0.0 to 6.0.1 [\#22](https://github.com/buluma/ansible-role-environment/pull/22) ([dependabot[bot]](https://github.com/apps/dependabot))
 - version bump [\#1](https://github.com/buluma/ansible-role-environment/pull/1) ([buluma](https://github.com/buluma))
 
 ## [1.0.2](https://github.com/buluma/ansible-role-environment/tree/1.0.2) (2022-02-10)
