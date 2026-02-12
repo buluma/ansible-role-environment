@@ -5,7 +5,7 @@
   gather_facts: false
 
   roles:
-    - role: ansible-role-environment
+    - role: buluma.environment
       environment_list:
         my_variable: "my_value"
         my_other_variable: "my_other_value"
