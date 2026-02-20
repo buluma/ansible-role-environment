@@ -4,7 +4,7 @@
 - name: Save variable settings in /etc/profile.d/custom.sh
   ansible.builtin.lineinfile:
     path: /etc/profile.d/custom.sh
-    regexp: '^export {{ item.key }}='
+    regexp: "^export {{ item.key }}="
     line: 'export {{ item.key }}="{{ item.value }}"'
     create: true
     mode: "0644"
