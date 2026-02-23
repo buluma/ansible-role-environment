@@ -12,30 +12,30 @@ This example is taken from [`molecule/default/converge.yml`](https://github.com/
 
 ```yaml
 ---
-  - name: Converge
-    hosts: all
-    become: true
-    gather_facts: false
+- name: Converge
+  hosts: all
+  become: true
+  gather_facts: false
 
-    roles:
-      - role: buluma.environment
-        environment_list:
-          my_variable: "my_value"
-          my_other_variable: "my_other_value"
-          PATH: "$PATH:/my/path"
+  roles:
+  - role: buluma.environment
+    environment_list:
+      my_variable: "my_value"
+      my_other_variable: "my_other_value"
+      PATH: "$PATH:/my/path"
 ```
 
 The machine needs to be prepared. In CI this is done using [`molecule/default/prepare.yml`](https://github.com/buluma/ansible-role-environment/blob/master/molecule/default/prepare.yml):
 
 ```yaml
 ---
-  - name: Prepare
-    hosts: all
-    become: true
-    gather_facts: false
+- name: Prepare
+  hosts: all
+  become: true
+  gather_facts: false
 
-    roles:
-      - role: buluma.bootstrap
+  roles:
+  - role: buluma.bootstrap
 ```
 
 Also see a [full explanation and example](https://buluma.github.io/how-to-use-these-roles.html) on how to use these roles.

@@ -1,12 +1,12 @@
 ---
-  - name: Converge
-    hosts: all
-    become: true
-    gather_facts: false
+- name: Converge
+  hosts: all
+  become: true
+  gather_facts: false
 
-    roles:
-      - role: buluma.environment
-        environment_list:
-          my_variable: "my_value"
-          my_other_variable: "my_other_value"
-          PATH: "$PATH:/my/path"
+  roles:
+  - role: buluma.environment
+    environment_list:
+      my_variable: "my_value"
+      my_other_variable: "my_other_value"
+      PATH: "$PATH:/my/path"
