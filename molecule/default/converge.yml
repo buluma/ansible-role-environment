@@ -5,8 +5,8 @@
   gather_facts: false
 
   roles:
-  - role: buluma.environment
-    environment_list:
-      my_variable: "my_value"
-      my_other_variable: "my_other_value"
-      PATH: "$PATH:/my/path"
+    - role: buluma.environment
+      environment_list:
+        my_variable: "my_value"
+        my_other_variable: "my_other_value"
+        PATH: "$PATH:/my/path"
