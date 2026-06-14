@@ -1,5 +1,9 @@
 # Changelog
 
+## [26.6.0](https://github.com/buluma/ansible-role-environment/tree/26.6.0) (2026-06-14)
+
+[Full Changelog](https://github.com/buluma/ansible-role-environment/compare/24.3.31...26.6.0)
+
 ## [24.3.31](https://github.com/buluma/ansible-role-environment/tree/24.3.31) (2024-03-29)
 
 [Full Changelog](https://github.com/buluma/ansible-role-environment/compare/1.2.0...24.3.31)
